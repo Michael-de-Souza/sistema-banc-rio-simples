@@ -1,1 +1,1 @@
-# sistema-banc-rio-simples
+# sistema-banco-simples
